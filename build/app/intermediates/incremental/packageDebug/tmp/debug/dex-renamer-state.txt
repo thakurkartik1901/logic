@@ -1,0 +1,4 @@
+#Tue Aug 04 19:43:55 IST 2020
+base.0=/Users/kartikthakur/Projects/fluttery/test/Sample1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
